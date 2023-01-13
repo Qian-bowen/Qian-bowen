@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Bowen.
+
+* I'm currently learning C++ & Golang.
+* A backend developer, with a little frontend skill.
+* I'm going to :beer:Eating, :earth_africa:Travelling, :computer:Coding & :saxophone:Music 
+
+[![Top Langs](https://github-readme-stats-7680dodou-qian-bowen.vercel.app/api/top-langs/?username=Qian-bowen&layout=compact&show_icons=true&theme=dark)](https://github.com/Qian-bowen/github-readme-stats)
+
+![Bowen's GitHub stats](https://github-readme-stats-7680dodou-qian-bowen.vercel.app/api?username=Qian-bowen&layout=compact&show_icons=true&theme=dark)
 
 <!--
 **Qian-bowen/Qian-bowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
